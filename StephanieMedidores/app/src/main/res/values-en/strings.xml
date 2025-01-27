@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StephanieMeters</string>
+    <string name="boton_agregar">Add</string>
+    <string name="etiqueta_tipo">Type</string>
+    <string name="icono_descripcion">Icono of %1$s</string>
+    <string name="registro_medidor">Meter Registration</string>
+    <string name="medidor">Meter</string>
+    <string name="fecha">Date</string>
+    <string name="medidor_de">Meter of:</string>
+    <string name="agua">Water</string>
+    <string name="luz">Light</string>
+    <string name="gas">Gas</string>
+    <string name="registrar_medicion">Register Measurement</string>
+
+</resources>
